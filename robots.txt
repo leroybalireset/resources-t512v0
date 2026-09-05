@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leroybalireset.github.io/resources-t512v0/sitemap.xml
